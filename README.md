@@ -1,4 +1,4 @@
-## **Netflix Clone**
+# **NETFLIX CLONE**
 
 ## **About this project**
 This project is a front end clone of Netflix. It was created with ReactJS and CSS. 
@@ -29,6 +29,6 @@ If you want to instal:
 # Install 
 $ npm install
 
-# Run Ecoleta
+# Run netflix-clone
 $ npm start
 ```
