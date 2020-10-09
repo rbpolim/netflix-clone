@@ -1,4 +1,6 @@
-# **NETFLIX CLONE**
+<h1 align="center">
+    <img width="200" height="100" alt="Netflix" title="Netflix Clone" src="https://pmcvariety.files.wordpress.com/2020/05/netflix-logo.png?w=1024" />
+</h1>
 
 ## **About this project**
 This project is a front end clone of Netflix. It was created with ReactJS and CSS. 
